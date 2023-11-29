@@ -1,9 +1,10 @@
 ---
 layout: default
 permalink: /projects
+description: Note- This list is always being updated!
 ---
 
-# Welcome to the Projects Page!
+# Projects
 
 **So cool**
 
