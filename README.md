@@ -34,7 +34,7 @@ I have most of my experience using Java, Python, and JavaScript; I have also use
 
 * * *
 
-### My Experience
+### My Experience.
 
 ###### Launchpad Leadership Academy
 
