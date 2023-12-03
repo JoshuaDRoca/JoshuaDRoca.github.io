@@ -1,11 +1,11 @@
 ---
 layout: default
 permalink: /projects
-description: Note- This list is always being updated!
+description: Note: This list is always being updated!
 ---
 
 # Projects
 
-**So cool**
+**This Page is under construction!**
 
 [Back](./)
