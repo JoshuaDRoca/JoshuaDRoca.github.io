@@ -17,12 +17,14 @@ I have most of my experience using Java, Python, and JavaScript; I have also use
 
 ###### Technical Skills
 
+|:---------|:-------------|
 | * Java   | * Playwright |
 | * Python | * HTML/CSS   |
 | * SQL    | * JavaScript | 
 
 ###### Relevant Courses
 
+|:-------------------------------------|:-----------------------------------------|
 | * Data Structures and Algorithms     | * OS Security and Administration         |
 | * Computer Networks and Security     | * Parallel and Distributed Computing     |
 | * Professional/Technical Writing     | * Computer Organization and Architechture|
