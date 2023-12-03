@@ -11,9 +11,9 @@ But before that... [Here's a link to my Project page](./projects.html). [And her
 
 ### A little about me.
 
-Currently I am a senior at Clayton State University (CSU), and my major is Computer Science! I plan on graduating in May 2024, so I'm currently looking for associate level postions in software development. My focus is to be part of a Product Development or Quality Assurance team, both of those fields really interest me! 
+Currently, I am a senior at Clayton State University (CSU) majoring in Computer Science, which means I plan on graduating in May 2024! I'm currently looking for associate level postions in software development with a focus on Product Development or Quality Assurance. I have most of my experience using Java, Python, and JavaScript, but I'm always looking for ways to work on my SQL, HTML, and CSS! Currently, I'm doing most of my learning with front-end development, and I plan to utilize my personal projects for bettering my understanding of the total lifecycle of a software product. Manual and automation testing are more areas I plan on growing in during my work on personal projects!
 
-I have most of my experience using Java, Python, and JavaScript; I have also used the React framework, and I'm hoping to learn more by using it more often! Here are a few tables that show my skills and knowledge:
+Here are a few tables that show my skills and knowledge:
 
 #### Technical Skills
 
