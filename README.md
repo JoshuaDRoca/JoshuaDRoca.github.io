@@ -15,17 +15,17 @@ Currently I am a senior at Clayton State University (CSU), and my major is Compu
 
 I have most of my experience using Java, Python, and JavaScript; I have also used the React framework, and I'm hoping to learn more by using it more often! Here are a few tables that show my skills and knowledge:
 
-###### Technical Skills
+#### Technical Skills
 
-|Row 1   | Row 2      |
+|Column 1| Column 2   |
 |:-------|:-----------|
 | Java   | Playwright |
 | Python | HTML/CSS   |
 | SQL    | JavaScript | 
 
-###### Relevant Courses
+#### Relevant Courses
 
-|Row 1                               | Row 2                                  |
+|Column 1                            | Column 2                               |
 |:-----------------------------------|:---------------------------------------|
 | Data Structures and Algorithms     | OS Security and Administration         |
 | Computer Networks and Security     | Parallel and Distributed Computing     |
