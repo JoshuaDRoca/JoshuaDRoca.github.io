@@ -8,6 +8,8 @@ description: This list is always being updated!
 ### Welcome to the Projects Page!
 Below are a few assignments and projects that I've worked on while in college.
 
+[Back](./)
+
 ***
 
 ## Launchpad Research Project
