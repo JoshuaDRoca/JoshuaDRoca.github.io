@@ -18,7 +18,10 @@ Firstly, I wanted to showcase this exciting project that I am participating in a
 ## Python Recursive Descent Parsing
 Second is a project that I worked on in my Programming Languages class! This small program simulates a standard parser which would be used to tokenize regular expressions into correctly-understood character for our machine to interpret. This was also my first assignment using Python after learning most of my Object-Oriented Programming (OOP) concepts with Java. I'm happy to say the switch to Python was easy to make, and I am not confident to use Python in most circumstances. Below is a video showcasing the program briefly.
 
-<video src=https://github.com/JoshuaDRoca/JoshuaDRoca.github.io/assets/111514817/e1290b86-911a-4dc5-81ae-c0fb94fa4609></video>
+<video src="https://github.com/JoshuaDRoca/JoshuaDRoca.github.io/assets/111514817/e1290b86-911a-4dc5-81ae-c0fb94fa4609.mov" 
+       controls="controls"
+       style="max-width: 730px;">
+</video>
 [Video](https://github.com/JoshuaDRoca/JoshuaDRoca.github.io/assets/111514817/e1290b86-911a-4dc5-81ae-c0fb94fa4609)
 
 ## Logisim Digital Clock
