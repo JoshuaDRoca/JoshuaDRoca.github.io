@@ -3,7 +3,7 @@
 ![Headshot](./Headshot.JPEG)
 _Hey There!_ My name is Josh Roca, and this is my portfolio!
 
-Below is brief description of who I am and what I'm passionate about!
+Below is a brief description of who I am and what I'm passionate about!
 
 But before that... [Here's a link to my Project page](./projects.html). [And here's a link to my LinkedIn](https://www.linkedin.com/in/josh-roca/)!
 
@@ -11,7 +11,7 @@ But before that... [Here's a link to my Project page](./projects.html). [And her
 
 ### A little about me.
 
-Currently, I am a senior at Clayton State University (CSU) majoring in Computer Science, which means I plan on graduating in May 2024! I'm currently looking for associate level postions in software development with a focus on Product Development or Quality Assurance. I have most of my experience using Java, Python, and JavaScript, but I'm always looking for ways to work on my SQL, HTML, and CSS! Currently, I'm doing most of my learning with front-end development, and I plan to utilize my personal projects for bettering my understanding of the total lifecycle of a software product. Manual and automation testing are more areas I plan on growing in during my work on personal projects!
+Currently, I am a senior at Clayton State University majoring in Computer Science, I am graduating in May 2024! I'm currently looking for associate level postions in software development with a focus on Product Development or Quality Assurance. I have most of my experience using Java, Python, and JavaScript, but I'm always looking for ways to work on my SQL, HTML, and CSS! Currently, I'm doing most of my learning with front-end development, and I plan to utilize my personal projects for bettering my understanding of the total lifecycle of a software product. Manual and automation testing are more areas I plan on growing in during my work on personal projects!
 
 Here are a few tables that show my skills and knowledge:
 
@@ -48,4 +48,4 @@ Also, from October 2022 to the present, I have been a work-study student working
 
 During my time in college, I've been able to use my spare time for some extracurriculars that have helped me in many ways! For one, I was able to serve as the Community Service Chair for CSU's National Society of Leadership and Success (NSLS) branch. In that role I oversaw the many projects that the club was doing around the community, my favorite being the annual "Safe Halloween" that takes place in Morrow, Ga! At the Safe Halloween, CSU's NSLS branch is priveledged to give out candy and serve the local kids of Morrow for an evening.
 
-On top of everything, I was able to start a Bible study club on campus! Truth Talk Bible Studies were born out of a desire to see Jesus' name be shared and talked about at Clayton State, and I'm proud to be a part of such a initiative. Overseeing Truth Talk has consisted of planning and organizing weekly Bible studies, monthly worship nights, and facilitating outreach at CSU's orientation events. 
+On top of everything, I was able to start a Bible study club on campus! "Truth Talk" was born out of a desire to see Jesus' name be shared and talked about at Clayton State, and I'm proud to be a part of such an initiative. Overseeing Truth Talk has consisted of planning and organizing weekly Bible studies, monthly worship nights, and facilitating outreach at CSU's orientation events. 
