@@ -13,9 +13,13 @@ Below are a few assignments and projects that I've worked on while in college.
 ***
 
 ## Launchpad Research Project
-Firstly, I wanted to showcase this exciting project that I am participating in as part of the Launchpad Leadership Academy program here at Clayton State University. Our research team is exploring the topic of conversational sentiment analysis (CSA) using modern machine learning techniques. This area of research is surprisingly burgeoning and being worked on by professionals in the industry, so our research has been focused on covering the latest achievements. On top of simply stating research facts, our team has also constructed an application that showcases some of the progress made within CSA in the form of a chatbox application. [Linked here is our research paper.](https://github.com/JoshuaDRoca/JoshuaDRoca.github.io/files/13843682/Sentiment_Analysis_Research_Paper.pdf) And below is a video showcasing our chatbox app.
+Firstly, I wanted to showcase this exciting project that I am participating in as part of the Launchpad Leadership Academy program here at Clayton State University. Our research team is exploring the topic of conversational sentiment analysis (CSA) using modern machine learning techniques. This area of research is surprisingly burgeoning and being worked on by professionals in the industry, so our research has been focused on covering the latest achievements. On top of simply stating research facts, our team has also constructed an application that showcases some of the progress made within CSA in the form of a chatbox application. [Linked here is our research paper.](https://github.com/JoshuaDRoca/JoshuaDRoca.github.io/files/14603702/Sentiment_Analysis_Research_Paper.pdf)[Sentiment_Analysis_Research_Paper.pdf]
+ And below is a video showcasing our chatbox app.
 
-**Video coming soon**
+<video src="https://github.com/JoshuaDRoca/JoshuaDRoca.github.io/assets/111514817/3f2c7975-0632-4bf6-a8fd-2952b6970e22"
+       controls="controls"
+       style="max-width: 730px;">
+</video>
 
 ## Python Recursive Descent Parsing
 Second is a project that I worked on in my Programming Languages class! This small program simulates a standard parser which would be used to tokenize regular expressions into correctly-understood character for our machine to interpret. This was also my first assignment using Python after learning most of my Object-Oriented Programming (OOP) concepts with Java. I'm happy to say the switch to Python was easy to make, and I am not confident to use Python in most circumstances. Below is a video showcasing the program briefly.
