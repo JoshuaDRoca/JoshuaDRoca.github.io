@@ -12,8 +12,13 @@ Below are a few assignments and projects that I've worked on while in college.
 
 ***
 
+## DegreeWorks Scraper
+Here is one of my favortite projects that I have been apart of! This was an entirely individual project for my Internship class in Spring 2024. The goal of this project was to create a web app that allows faculty of Clayton State University to quickly download an Excel file containing details about any student's class history! This also works for students wanting to download a file for themselves. All you have to do is log into the CSU Login page that is opened in a new, automated Chrome browser, and let the app do the rest! Here is a link to the [Github repo](https://github.com/JoshuaDRoca/ScraperApp)!
+
+<img width="986" alt="Screenshot 2024-04-25 at 10 29 32 AM" src="https://github.com/JoshuaDRoca/JoshuaDRoca.github.io/assets/111514817/2a4bd607-cf30-4d2a-8962-cafdd86a31a0">
+
 ## Launchpad Research Project
-Firstly, I wanted to showcase this exciting project that I am participating in as part of the Launchpad Leadership Academy program here at Clayton State University. Our research team is exploring the topic of conversational sentiment analysis (CSA) using modern machine learning techniques. This area of research is surprisingly burgeoning and being worked on by professionals in the industry, so our research has been focused on covering the latest achievements. On top of simply stating research facts, our team has also constructed an application that showcases some of the progress made within CSA in the form of a chatbox application. [Linked here is our research paper.](https://github.com/JoshuaDRoca/JoshuaDRoca.github.io/files/14603702/Sentiment_Analysis_Research_Paper.pdf)[Sentiment_Analysis_Research_Paper.pdf]
+This is an exciting project that I am participating in as part of the Launchpad Leadership Academy program here at Clayton State University. Our research team is exploring the topic of conversational sentiment analysis (CSA) using modern machine learning techniques. This area of research is surprisingly burgeoning and being worked on by professionals in the industry, so our research has been focused on covering the latest achievements. On top of simply stating research facts, our team has also constructed an application that showcases some of the progress made within CSA in the form of a chatbox application. [Linked here is our research paper.](https://github.com/JoshuaDRoca/JoshuaDRoca.github.io/files/14603702/Sentiment_Analysis_Research_Paper.pdf)[Sentiment_Analysis_Research_Paper.pdf]
  And below is a video showcasing our chatbox app.
 
 <video src="https://github.com/JoshuaDRoca/JoshuaDRoca.github.io/assets/111514817/3f2c7975-0632-4bf6-a8fd-2952b6970e22"
